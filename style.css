@@ -1,2 +1,37 @@
+body {
+    font-family: sans-serif;
+    background: url(assets/waves.gif) no-repeat;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
 
-  
+
+h1 {
+    text-align: center;
+    
+
+}
+
+#AboutMe {
+    text-align: center;
+    margin: auto 0;
+}
+
+#Projects {
+    text-align: center;
+    margin: auto 0;
+}
+
+#Contact {
+    text-align: center;
+    margin: auto 0;
+}
+
+#Content {
+    color: white;
+}
+
