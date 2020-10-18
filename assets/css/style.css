@@ -1,6 +1,6 @@
 body {
     min-height: 200vh;
-    background-color: #f3f3f3;
+    background-color:#f3f3f3;
 }
 
 
@@ -15,7 +15,7 @@ body {
 
 .thin-text {
     font-weight: 300;
-    background-color: rgba(84,110,122, .4);
+    background-color: rgba(117, 117, 117, .4);
     padding: 40px;
     border-radius: 10px;
 }
