@@ -1,3 +1,8 @@
+body {
+    min-height: 200vh;
+}
+
+
 .logo {
     font-weight: 300;
     padding-left: 10px;
@@ -5,4 +10,11 @@
 
 .parallax-container {
     height: 800px;
+}
+
+.thin-text {
+    font-weight: 300;
+    background-color: rgba(84,110,122, .4);
+    padding: 40px;
+    border-radius: 10px;
 }
