@@ -48,15 +48,15 @@ nav {
 .img_container {
     width: 600px;
     height: auto;
-    margin: 10 auto;
+    margin: 0;
     padding: 10px;
     position: relative
 }
 
 .technologies {
-    margin: auto 0;
+    margin: 50 auto;
     float: right;
-    padding: 50px;
+    padding: 10px;
     position: relative
    
 }
@@ -72,11 +72,12 @@ nav {
 
 .social_icons {
     height: 100px;
+    background-color: rgba(0,0,0,0);
 }
 
 .social_icons:hover {
     height: 100px;
-    
+    background-color: rgb(194, 249, 254);
 }
 
 .contact_container {
