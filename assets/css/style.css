@@ -54,9 +54,9 @@ nav {
 }
 
 .technologies {
-    margin: 50 auto;
+    margin: 0 300px 0 0;
     float: right;
-    padding: 10px;
+    padding: 100px;
     position: relative
    
 }
@@ -77,7 +77,7 @@ nav {
 
 .social_icons:hover {
     height: 100px;
-    background-color: rgb(194, 249, 254);
+    background-color: rgba(0,0,0,0);
 }
 
 .contact_container {
