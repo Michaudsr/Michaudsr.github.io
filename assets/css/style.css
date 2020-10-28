@@ -25,6 +25,10 @@ h2 {
     text-decoration: underline;
 }
 
+nav {
+    height: 100px;
+}
+
 .about {
     /* padding: 20px; */
     text-align:justify;
@@ -38,7 +42,6 @@ h2 {
     height: 300px;
     border: solid rgba(0,0,0,0.6);
     border-radius: 50%;
-
     shape-outside: circle();
 }
 
@@ -49,17 +52,23 @@ h2 {
     padding: 10px;
     position: relative
 }
-/* .container {
-    height: 500px;
-} */
+
+.technologies {
+    margin: auto 0;
+    float: right;
+    padding: 50px;
+    position: relative
+   
+}
+
+#projects {
+    margin: 150px;
+}
 
 .card {
     margin: 50px;
 }
 
-nav {
-    height: 100px;
-}
 
 .social_icons {
     height: 100px;
