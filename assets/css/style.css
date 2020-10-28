@@ -1,6 +1,7 @@
 body {
     min-height: 200vh;
     background-color:#f3f3f3;
+    font-weight: 500;
 }
 
 
@@ -20,6 +21,26 @@ body {
     border-radius: 10px;
 }
 
+h2 {
+    text-decoration: underline;
+}
+
+.about {
+    /* padding: 20px; */
+    text-align:justify;
+    margin: 400px;
+}
+
+.about img{
+    float: left;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    shape-outside: circle();
+
+}
+
+
 /* .container {
     height: 500px;
 } */
@@ -36,8 +57,9 @@ nav {
     height: 100px;
 }
 
-.social_icons {
+.social_icons:hover {
     height: 100px;
+    
 }
 
 .contact_container {
