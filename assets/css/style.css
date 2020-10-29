@@ -56,10 +56,9 @@ nav {
     list-style: none;
     float: none;
     width: 90%;
-    height: 600px;
-    margin: 0px 50px 0px 40px;
+    height: 500px;
+    margin: 100px 50px 0px 100px;
     box-sizing: border-box;
-    
 }
 
 @media screen and (max-width:1200px){
@@ -111,7 +110,10 @@ nav {
     padding: 10px;
     text-align: left;
     justify-content: right;
+    
 }
+
+
 
 #projects {
     margin: 150px;
@@ -134,4 +136,15 @@ nav {
 
 .contact_container {
     margin: 150px;
+}
+
+.python {
+    height: 400px;
+    margin: 200px 0 200px 0;
+}
+
+.django {
+    float: right;
+    height: 400px;
+    margin: 200px 0 200px 0;
 }
