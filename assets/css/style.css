@@ -58,7 +58,7 @@ nav {
     list-style: none;
     float: none;
     width: 90%;
-    height: 500px;
+    height: 100px;
     margin: 100px 50px 0px 100px;
     box-sizing: border-box;
 }
@@ -107,10 +107,10 @@ nav {
 
 .technologies {
     margin: auto 0;
-    float: right;
+    float: left;
     padding: 10px;
     text-align: left;
-    justify-content: right;
+    justify-content: left;
     
 }
 
@@ -139,9 +139,10 @@ nav {
 }
 
 .contact_container {
-    margin: 150px;
+    margin: auto 0;
+    
 }
-
+/* 
 .python {
     height: 400px;
     margin: 200px 0 200px 0;
@@ -151,4 +152,4 @@ nav {
     float: right;
     height: 400px;
     margin: 200px 0 200px 0;
-}
+} */
